@@ -1,0 +1,1 @@
+import{c as a,o as r,b as e,d as s}from"./app.7d2ff5c0.js";import{_ as t}from"./plugin-vue_export-helper.5a098b48.js";const i={},o={id:"mybatis",tabindex:"-1"},d=[e("a",{class:"header-anchor",href:"#mybatis","aria-hidden":"true"},"#",-1),s(" MyBatis")];var n=t(i,[["render",function(e,s){return r(),a("h1",o,d)}]]);export{n as default};

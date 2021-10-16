@@ -1,0 +1,1 @@
+const t={key:"v-248713a5",path:"/db/mysql/",title:"简介",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"db/mysql/README.md",git:{updatedTime:null,contributors:[]}};export{t as data};

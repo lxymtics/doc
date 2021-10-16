@@ -1,0 +1,1 @@
+const t={key:"v-14774ed2",path:"/db/mysql/3_DDL&DCL.html",title:"数据库管理",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"db/mysql/3_DDL&DCL.md",git:{updatedTime:null,contributors:[]}};export{t as data};

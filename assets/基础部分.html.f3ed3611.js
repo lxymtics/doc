@@ -1,0 +1,1 @@
+import{c as a,o as r,b as e,d as s}from"./app.7d2ff5c0.js";import{_ as o}from"./plugin-vue_export-helper.5a098b48.js";const t={},d={id:"基础部分",tabindex:"-1"},n=[e("a",{class:"header-anchor",href:"#基础部分","aria-hidden":"true"},"#",-1),s(" 基础部分")];var i=o(t,[["render",function(e,s){return r(),a("h1",d,n)}]]);export{i as default};

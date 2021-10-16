@@ -1,1 +1,0 @@
-const t={key:"v-0ab053e1",path:"/jdbc/MyBatis.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"jdbc/MyBatis.md",git:{updatedTime:null,contributors:[]}};export{t as data};
